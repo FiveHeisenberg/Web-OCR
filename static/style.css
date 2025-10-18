@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9fafb;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #111;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+form {
+  margin-top: 20px;
+}
+
+input[type="file"] {
+  padding: 8px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.2s ease;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+video, canvas {
+  display: block;
+  margin: 15px auto;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+h3 {
+  color: #222;
+  margin-top: 30px;
+}
+
+#snap {
+  display: block;
+  margin: 10px auto;
+  background: #059669;
+}
+
+#snap:hover {
+  background: #047857;
+}
+
+#accessCamera {
+  display: block;
+  margin: 15px auto;
+  background: #f59e0b;
+}
+
+#accessCamera:hover {
+  background: #d97706;
+}
+
+#captureForm {
+  text-align: center;
+  margin-top: 10px;
+}
