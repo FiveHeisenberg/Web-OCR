@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Scan Result</title>
+    <title>Hasil OCR</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h2>Extracted Text:</h2>
-    <pre>{{ text }}</pre>
-    <a href="/">← Kembali</a>
+    <div class="container">
+        <h1>📝 Hasil OCR</h1>
+
+        <h3>Teks yang berhasil diekstrak:</h3>
+        <pre class="ocr-text">{{ text }}</pre>
+
+        <a href="/" class="back-btn">← Kembali ke Halaman Awal</a>
+    </div>
+
+    <script src="{{ url_for('static', filename='timeout.js') }}"></script>
 </body>
 </html>
