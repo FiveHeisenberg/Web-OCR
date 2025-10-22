@@ -58,7 +58,7 @@ Web-OCR/
 │   ├── dataset.html
 │   ├── index.html
 │   └── result.html
-├── 📁 uploads/             # Folder upload temporary
+├── 📁 uploads/             # Folder upload 
 ├── 📄 app.py               # File utama aplikasi Flask
 ├── 📄 classifier.py        # Klasifikasi jenis surat (PDF atau IMG)
 ├── 📄 config.py            # Konfigurasi aplikasi
