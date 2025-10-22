@@ -65,7 +65,7 @@ Web-OCR/
 ├── 📄 extractor.py         # Ekstraksi informasi dari teks
 ├── 📄 ocr_processor.py     # Pemrosesan OCR
 ├── 📄 requirements.txt     # Dependencies
-├── 📄 utils.py             # Fungsi utilitas umum
+└── 📄 utils.py             # Fungsi utilitas umum
 ```
 ---
 
