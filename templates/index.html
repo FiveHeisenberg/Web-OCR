@@ -1,35 +1,63 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Web OCR Scanner</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Dataset Surat</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f7f7f7;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      width: 320px;
+    }
+    form {
+      margin-top: 20px;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      width: 320px;
+    }
+    input[type="file"] {
+      display: block;
+      margin-bottom: 15px;
+    }
+    button {
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Web OCR Scanner</h1>
+  <h1>Dashboard Dataset Surat</h1>
 
-    <h3>📁 Upload Gambar atau PDF</h3>
-    <form action="/upload" method="post" enctype="multipart/form-data">
-      <input type="file" name="file" accept="image/*,.pdf" required>
-      <button type="submit">Upload & Scan</button>
-    </form>
-
-    <h3>📷 Scan via Webcam</h3>
-    <button id="accessCamera">Izinkan Akses Kamera</button>
-    <video id="video" width="480" height="360" autoplay style="display:none;"></video>
-    <button id="snap" style="display:none;">Ambil Foto</button>
-    <canvas id="canvas" width="480" height="360" style="display:none;"></canvas>
-
-    <form id="captureForm" action="/capture" method="post">
-      <input type="hidden" name="image_data" id="image_data">
-      <button type="submit">Kirim Hasil Foto untuk OCR</button>
-    </form>
+  <div class="card">
+    <p><strong>Total Surat:</strong> {{ stats.total }}</p>
+    <p>Surat Izin: {{ stats.izin }}</p>
+    <p>Surat Sakit: {{ stats.sakit }}</p>
   </div>
 
+  <form id="uploadForm" action="/upload" method="post" enctype="multipart/form-data">
+    <h3>Upload Surat Izin / Surat Sakit</h3>
+    <input type="file" name="file" accept=".jpg,.jpeg,.png,.pdf" required>
+    <button type="submit">Upload dan Proses OCR</button>
+  </form>
 
-  <script src="{{ url_for('static', filename='capture.js') }}"></script>
-  <script src="{{ url_for('static', filename='timeout.js') }}"></script>
+  <hr>
+  <button id="accessCamera">Izinkan Akses Kamera</button>
 </body>
 </html>
