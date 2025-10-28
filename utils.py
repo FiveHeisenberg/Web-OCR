@@ -7,6 +7,7 @@ def allowed_file(filename):
     """Cek apakah file diizinkan berdasarkan ekstensi"""
     return "." in filename and filename.rsplit('.', 1)[1].lower() in Config.ALLOWED_EXTENSIONS
 
+
 def load_dataset():
     """Memuat dataset dari file JSON"""
     if os.path.exists(Config.DATASET_JSON):
@@ -14,10 +15,12 @@ def load_dataset():
             return json.load(f)
     return {"surat_izin": [], "surat_sakit": []}
 
+
 def save_dataset(dataset):
     """Menyimpan dataset ke file JSON"""
     with open(Config.DATASET_JSON, 'w', encoding='utf-8') as f:
         json.dump(dataset, f, indent=2, ensure_ascii=False)
+
 
 def hapus_file_lama():
     """Menghapus file upload yang sudah kadaluarsa"""
@@ -32,3 +35,19 @@ def hapus_file_lama():
                 if os.path.exists(basefile):
                     os.remove(basefile)
                 os.remove(folder)
+
+
+def auto_label(text):
+    """
+    Memberi label otomatis berdasarkan isi teks hasil OCR.
+    - Jika mengandung kata 'izin' → surat_izin
+    - Jika mengandung kata 'sakit' → surat_sakit
+    - Jika tidak keduanya → surat_lain
+    """
+    text_lower = text.lower()
+    if "izin" in text_lower:
+        return "surat_izin"
+    elif "sakit" in text_lower:
+        return "surat_sakit"
+    else:
+        return "surat_lain"

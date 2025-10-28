@@ -1,4 +1,466 @@
 {
-  "surat_izin": [],
-  "surat_sakit": []
+  "surat_izin": [
+    {
+      "id": "c482696e-b7a4-4851-b34c-8980bc0e2d58",
+      "filename": "ef836fbae7e64a8bb5f820c93d9363fa_SURAT KETERANGAN IZINN.pdf",
+      "path": "dataset\\surat_izin\\ef836fbae7e64a8bb5f820c93d9363fa_SURAT KETERANGAN IZINN.pdf",
+      "jenis": "surat_izin",
+      "text": "KEMENTERIAN RISET, TEKNOLOGI DAN PENDIDIKAN TINGGI\nPOLITEKNIK NEGERI LHOKSEUMAWE\nJURUSAN TEKNOLOGI INFORMASI DAN KOMPUTER\nJalan Banda Aceh-Medan Km. 280, Buketrata — Lhokseumawe, 24301 PO.BOX 90\nTelepon: (0645) 42670, 42785 Fax: 42785 Ext. 9\nLaman: www.pnl.ac.id\n\nSURAT KETERANGAN IZIN\n\nKepada Yth,\n\nBapak/Ibu Dosen Pengajar\nDi, -\n\nTempat\n\nSaya yang bertanda tangan dibawah ini :\n\nNama : Muhammad Nauval Qisti\nNim : 2023573010034\nProdi : Teknik Informatika\n\nKelas : TI.3E\n\nDengan ini mohon IZIN untuk tidak mengikuti mata kuliah pada tanggal\n07 Oktober 2025 karena : ada acara keluarga\n\nDemikian surat permohonan IZIN ini saya buat dengan sesungguhnya dan apabila\ndikemudian hari terdapat keterangan yang tidak benar saya bersedia menerima sanksi/tindakan\n\nyang akan diambil oleh Politeknik Negeri Lhokseumawe.\n\nMengetahui : Lhokseumawe, 07 Oktober 2025\nPA/WALI/ORTU\nfp\n\\\\ \\\\ _ | AN | i\nee J ME ORA |\n~ vV\nMurni Nauval\n(2023573010034)\n\nNim.\n",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": "Muhammad Nauval Qisti",
+        "nim": "2023573010034",
+        "tanggal": "07 Oktober 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": "ada acara keluarga",
+        "durasi": null,
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T21:32:39.268971"
+    },
+    {
+      "id": "f0ab1599-6762-4b5a-bf65-871393b60835",
+      "filename": "9688324f58224f73a2e8834535789c68_SURAT IZIN (1).pdf",
+      "path": "dataset\\surat_izin\\9688324f58224f73a2e8834535789c68_SURAT IZIN (1).pdf",
+      "jenis": "surat_izin",
+      "text": "SURAT KETERANGAN IZIN\n\nKepada Yth,\n\nBapak/Ibu Dosen Pengajar\nDi, -\n\nTempat\n\nSaya yang bertanda tangan dibawah ini :\nNama : Tasya Ulfa Rahmazani\n\nNim : 2023573010061\nProdi : Teknik Informatika\n\nKelas : TI.3E\n\nDengan ini mohon IZIN untuk tidak mengikuti mata kuliah pada tanggal\n16 Oktober 2025 karena :\nCheck up ke RS\n\nDemikian surat permohonan IZIN ini saya buat dengan sesungguhnya dan apabila\ndikemudian hari terdapat keterangan yang tidak benar saya bersedia menerima sanksi/tindakan\n\nyang akan diambil oleh Politeknik Negeri Lhokseumawe.\n\nMengetahui : Lhokseumawe, 16 Oktober 2025\nPA/WALI/ORTU .\n(Da Ye\n(Muliyana) (Tasya Ulfa Rahmazani)\nNip. - Nim. 2023573010061\nNOTE :\n\n- SURAT IZIN BERLAKU 1 HARI\n-  LAMPIRKAN SURAT DOKTER JIKA SAKIT\n-  CANTUMKAN NO.HP WALL/ORTU (081364651417)\n",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": "Tasya Ulfa Rahmazani",
+        "nim": "2023573010061",
+        "tanggal": "16 Oktober 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": "Check up ke RS",
+        "durasi": "1 hari",
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T21:36:42.227128"
+    },
+    {
+      "id": "8ce558e1-5229-4054-832f-f06ef3dcb8a7",
+      "filename": "4d934437c7c0457dbb0e193a6127d655_SURAT IZIN oneday.pdf",
+      "path": "dataset\\surat_izin\\4d934437c7c0457dbb0e193a6127d655_SURAT IZIN oneday.pdf",
+      "jenis": "surat_izin",
+      "text": "HIMPUNAN MAHASISWA BISNIS\nPOLITEKNIK NEGERI LHOKSEUMAWE\n\nSekretariat : Himpunan Mahasiswa Bisnis (HIMABIS) Politeknik Negeri Lhokseumawe\nJln. Medan - Banda Aceh, Km. 280 Lhokseumawe, Email: himabis.kbmpn1@gmail.com\n\nSURAT IZIN\nNOMOR:141/P/PANPEL/ONEDAY/HIMABIS-PNL/IX/2025\n\nUntuk tidak dapat berhadir dalam Agenda acara Oneday yang akan di laksanakan pada hari Sabtu\ntanggal 27/September/2025 pada pukul 08.00 s/d Selesai.\n\nNama : Nurul Syafiga\nKelas : ALKS 2A\nProdi : ALKS\n\nDemikian surat izin ini dikeluarkan agar dapat dipergunakan sebagaimana semestinya.\n\nLhokseumawe, 27 September 2025\nMengetahui:\nKetua Himpunan Bisnis\n\nMuhammad. Shagil Akeyla\nNIM.2023613060086\n",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": "Nurul Syafiga",
+        "nim": null,
+        "tanggal": "27 September 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T21:54:35.433912"
+    },
+    {
+      "id": "376ed677-080d-40ef-96f2-f81f335a5ba4",
+      "filename": "c57279eb8f964bc5b2f5e411a0fa2f19_SURAT IZIN TANPA KOP.pdf",
+      "path": "dataset\\surat_izin\\c57279eb8f964bc5b2f5e411a0fa2f19_SURAT IZIN TANPA KOP.pdf",
+      "jenis": "surat_izin",
+      "text": "SURAT KETERANGAN IZIN\n\nKepada Yth,\n\nBapak/Ibu Dosen Pengajar\nDi, -\n\nTempat\n\nSaya yang bertanda tangan dibawah ini :\nNama : T. HAFIDHUL FUROAN\nNim : 2023573010059\n\nProdi : Teknik Informatika\n\nKelas : TI2e\n\nDengan ini mohon IZIN untuk tidak mengikuti mata kuliah pada tanggal\n14 Okteber 2024 karena : Diluar daerah\n\nDemikian surat permohonan IZIN ini saya buat dengan sesungguhnya dan apabila\ndikemudian hari terdapat keterangan yang tidak benar saya bersedia menerima sanksi/tindakan\n\nyang akan diambil oleh Politeknik Negeri Lhokseumawe.\n\nMengetahui : Lhokseumawe, 02 Okteber 2024\nPA/WALI/ORTU\n8 Mu”)\nR\n(FAKHRIAH) (T. HAFIDHUL FURQAN)\nNip. Nim. 2023573010059\nNOTE :\n\n- SURAT IZIN BERLAKU | HARI\n-  LAMPIRKAN SURAT DOKTER JIKA SAKIT\n-  CANTUMKAN NO.HP WALL/ORTU (08126946751)\n",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": "2023573010059",
+        "tanggal": "14 Okteber 2024",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": "Diluar daerah",
+        "durasi": null,
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T21:55:31.635189"
+    },
+    {
+      "id": "db0f74ab-8e44-4de0-9df0-126e62a985d4",
+      "filename": "92fd8ab855884b7b81e04a098d696193_SURATIZIN.pdf",
+      "path": "dataset\\surat_izin\\92fd8ab855884b7b81e04a098d696193_SURATIZIN.pdf",
+      "jenis": "surat_izin",
+      "text": "SURAT KETERANGAN IZIN\nKepada Yth,\nBapaklIbu Dosen Pengajar\nDi,\nTempat\nyang bertanda tangan dibawah ini\nNama\nMUHAMMAD AL FATURRIZKY\nNim\n2023573010140\nProdi\nTeknik Informatika\nKelas\nTI\n2E\nDengan\nini\nmohon\nIZIN\nuntuk\ntidak\nmengikuti\nmata\nkuliah\ntanggal\n16 Mei 2025 karena\nBerkunjung ke dokter gigi.\nDemikian   surat   permohonan\nIZIN\nini\nsaya   buat   dengan   sesungguhnya\ndan   apabila\ndikemudian hari terdapat keterangan yang tidak benar saya bersedia menerima sanksiltindakan\nyang akan diambil oleh Politeknik Negeri Lhokseumawe.\nMengetahui\nLhokseumawe; 15 Mei 2025\nPA/WALIORTU\nXam\n%oad\nMuhammad AL Faturrizky\nM.Sani\nNim.2023573010140\nSaya\npada",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": "2023573010140",
+        "tanggal": "16 Mei 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": "Berkunjung ke dokter gigi",
+        "durasi": null,
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T22:30:04.310455"
+    },
+    {
+      "id": "7b182738-1854-4d49-a272-d46c5e573d96",
+      "filename": "b8604d124fcf44b683c93181b4980e21_SURAT IZIN (1).pdf",
+      "path": "dataset\\surat_izin\\b8604d124fcf44b683c93181b4980e21_SURAT IZIN (1).pdf",
+      "jenis": "surat_izin",
+      "text": "SURAT KETERANGAN IZIN\nKepada Yth,\nBapaklIbu Dosen Pengajar\nDi,\nTempat\nSaya yang bertanda tangan dibawah ini\nNama\nTasya Ulfa Rahmazani\nNim\n2023573010061\nProdi\nTeknik Informatika\nKelas\nTI3E\nDengan\nini\nmohon\nIZIN\nuntuk\ntidak\nmengikuti\nmata\nkuliah\ntanggal\n16 Oktober 2025 karena\nCheck up ke RS\nDemikian\nsurat\npermohonan\nIZIN\nini\nsaya\nbuat   dengan   sesungguhnya\ndan   apabila\ndikemudian hari terdapat keterangan yang tidak benar saya bersedia menerima sanksi/tindakan\nyang akan diambil oleh Politeknik Negeri Lhokseumawe.\nMengetahui\nLhokseumawe, 16 Oktober 2025\nPA/WALI/ORTU\n(Muliyana)\n(Tasya Ulfa Rahmazani)\nNip.\nNim. 2023573010061\nNOTE\nSURAT IZIN BERLAKU 1 HARI\nLAMPIRKAN SURAT DOKTER JIKA SAKIT\nCANTUMKAN NO.HP WALIIORTU (081364651417)\npada",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": "2023573010061",
+        "tanggal": "16 Oktober 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "1 hari",
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T22:34:08.333007"
+    },
+    {
+      "id": "a775a379-64ba-4a86-b09a-99261b4492cf",
+      "filename": "9168fefb42a44ff2b8ce14e38d7b4454_SURAT IZIN (1).pdf",
+      "path": "dataset\\surat_izin\\9168fefb42a44ff2b8ce14e38d7b4454_SURAT IZIN (1).pdf",
+      "jenis": "surat_izin",
+      "text": "SURAT KETERANGAN IZIN\nKepada Yth,\nBapaklIbu Dosen Pengajar\nDi,\nTempat\nSaya yang bertanda tangan dibawah ini\nNama\nTasya Ulfa Rahmazani\nNim\n2023573010061\nProdi\nTeknik Informatika\nKelas\nTI3E\nDengan\nini\nmohon\nIZIN\nuntuk\ntidak\nmengikuti\nmata\nkuliah\ntanggal\n16 Oktober 2025 karena\nCheck up ke RS\nDemikian\nsurat\npermohonan\nIZIN\nini\nsaya\nbuat   dengan   sesungguhnya\ndan   apabila\ndikemudian hari terdapat keterangan yang tidak benar saya bersedia menerima sanksi/tindakan\nyang akan diambil oleh Politeknik Negeri Lhokseumawe.\nMengetahui\nLhokseumawe, 16 Oktober 2025\nPA/WALI/ORTU\n(Muliyana)\n(Tasya Ulfa Rahmazani)\nNip.\nNim. 2023573010061\nNOTE\nSURAT IZIN BERLAKU 1 HARI\nLAMPIRKAN SURAT DOKTER JIKA SAKIT\nCANTUMKAN NO.HP WALIIORTU (081364651417)\npada",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": "2023573010061",
+        "tanggal": "16 Oktober 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "1 hari",
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T22:53:52.035488"
+    },
+    {
+      "id": "a2835b4f-368c-489c-a76b-5c35057008bb",
+      "filename": "39a16e1e6147458d99b3a8e1a19db6d8_SURAT IZIN oneday.pdf",
+      "path": "dataset\\surat_izin\\39a16e1e6147458d99b3a8e1a19db6d8_SURAT IZIN oneday.pdf",
+      "jenis": "surat_izin",
+      "text": "HIMPUNAN MAHASISWA BISNIS\nPOLITEKNIK NEGERI LHOKSEUMAWE\nSekretariat : Himpunan Mahasiswa Bisnis (HIMABIS) Politeknik Negeri Lhokseumawe\nJln. Medan\nBanda Aceh, Km. 280 Lhokseumawe, Email: himabis kbmpnl@gmail.com\nSURATIZIN\nNOMOR:I41/PIPANPEL/ONEDAYIHIMABIS-PNL/IX/2025\nUntuk tidak dapat berhadir dalam Agenda acara Oneday yang akan di laksanakan\nhari Sabtu\ntanggal 27/September/2025\npukul 08.00 s/d Selesai.\nNama\nNurul Syafiqa\nKelas\nALKS 2A\nProdi\nALKS\nDemikian surat izin ini dikeluarkan agar dapat dipergunakan sebagaimana semestinya.\nLhokseumawe; 27 September 2025\nMengetahui:\nKetua Himpunan Bisnis\nMuhammad. Shaqil Akeyla\nNIM.2023613060086\n,olitEKnIt ,\n-NeGeri\nHoKsEUM>\npada\npada",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": null,
+        "tanggal": "27 September 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T22:54:33.133868"
+    },
+    {
+      "id": "dedb6020-52d7-4e8d-8383-0f9cfec460b7",
+      "filename": "d3d0014e60454ca78b49fa362e6e6c52_SURAT IZIN (1).pdf",
+      "path": "dataset\\surat_izin\\d3d0014e60454ca78b49fa362e6e6c52_SURAT IZIN (1).pdf",
+      "jenis": "surat_izin",
+      "text": "SURAT KETERANGAN IZIN\nKepada Yth,\nBapaklIbu Dosen Pengajar\nDi,\nTempat\nSaya yang bertanda tangan dibawah ini\nNama\nTasya Ulfa Rahmazani\nNim\n2023573010061\nProdi\nTeknik Informatika\nKelas\nTI3E\nDengan\nini\nmohon\nIZIN\nuntuk\ntidak\nmengikuti\nmata\nkuliah\ntanggal\n16 Oktober 2025 karena\nCheck up ke RS\nDemikian\nsurat\npermohonan\nIZIN\nini\nsaya\nbuat   dengan   sesungguhnya\ndan   apabila\ndikemudian hari terdapat keterangan yang tidak benar saya bersedia menerima sanksi/tindakan\nyang akan diambil oleh Politeknik Negeri Lhokseumawe.\nMengetahui\nLhokseumawe, 16 Oktober 2025\nPA/WALI/ORTU\n(Muliyana)\n(Tasya Ulfa Rahmazani)\nNip.\nNim. 2023573010061\nNOTE\nSURAT IZIN BERLAKU 1 HARI\nLAMPIRKAN SURAT DOKTER JIKA SAKIT\nCANTUMKAN NO.HP WALIIORTU (081364651417)\npada",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": "2023573010061",
+        "tanggal": "16 Oktober 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "1 hari",
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T23:15:03.673661"
+    },
+    {
+      "id": "2a199d57-3e30-42a3-886d-605f46030a80",
+      "filename": "6bdb4a3ca4304b9a90be3095b2c3b098_SURAT IZIN.pdf",
+      "path": "dataset\\surat_izin\\6bdb4a3ca4304b9a90be3095b2c3b098_SURAT IZIN.pdf",
+      "jenis": "surat_izin",
+      "text": "Surat\nKeterangan\nIzin\nKe\nPada\nYth, ba\nPaklibu dosen pengajar di tem\nPat saya yang bertanda tangan dibawah ini\nNama m. ghaza al ghazali\nNim 2023573010141\nProdi teknik informatika\nKelas ti 2e\nDengan ini\nMohon\nIzin untuk\nTidak mengikuti mata kuliah\nTanggal 20 maret 2025_\nKarena ada keperluan (menjaga nenek_di luar kota\nDemikian\nSurat per\nMohonan\nIzin ini saya buat dengan sesungguhnya dan a\nPabila dikemudian hari terda\nPat\nKeterangan yang tidak benar saya bersedia menerima sanksiltindakan yang akan diambil oleh politeknik negeri\nLhokseumawe.\nMengetahui\nLhokseumawe, 20 maret 2025\nPa/\nWalii\nOrtu xuy zara bilqis m. ghaza al-ghazali\nNim.2023573010141\nNote\nSurat\nIzin berlaku 1 hari lampirkan\nSurat dokter jika\nSakit cantumkan no.hp\nWalii\nOrtu (081320315483)\nPada",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": "2023573010141",
+        "tanggal": "20 maret 2025",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "1 hari",
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T23:18:22.299245"
+    },
+    {
+      "id": "53576a48-a4e7-4681-b90d-622d2a5b933f",
+      "filename": "6398624da554457288da33670f60326a_SURAT IZIN TANPA KOP.pdf",
+      "path": "dataset\\surat_izin\\6398624da554457288da33670f60326a_SURAT IZIN TANPA KOP.pdf",
+      "jenis": "surat_izin",
+      "text": "Surat\nKeterangan\nIzin\nKe\nPada\nYth, ba\nPaklibu dosen pengajar di tem\nPat saya yang bertanda tangan dibawah ini\nNama thafidhul furoan\nNim 2023573010059\nProdi teknik informatika\nKelas ile\nDengan ini\nMohon\nIzin untuk\nTidak mengikuti mata kuliah\nTanggal 14 okteber 2024\nKarena diluar daerah\nDemikian\nSurat per\nMohonan\nIzin ini saya buat dengan sesungguhnya dan a\nPabila dikemudian hari terda\nPat\nKeterangan yang tidak benar saya bersedia menerima sanksi/tindakan yang akan diambil oleh politeknik negeri\nLhokseumawe.\nMengetahui\nLhokseumawe, 02 okteber 2024\nPa/\nWali/\nOrtu (u (fakhriah) (t hafidhul furqan)\nNip.\nNim. 2023573010059\nNote\nSurat\nIzin berlaku hari lampirkan\nSurat dokter jika\nSakit cantumkan no.hp\nWalii\nOrtu 08126946751)\nPada",
+      "info": {
+        "jenis": "surat_izin",
+        "nama": null,
+        "nim": "2023573010059",
+        "tanggal": "14 okteber 2024",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T23:21:17.288816"
+    }
+  ],
+  "surat_sakit": [
+    {
+      "id": "fb5f9221-d795-4b0e-b0c7-298e30dc8980",
+      "filename": "be7f6fb04c7246579ba5bdc457b926ff_SURAT KETERANGAN SAKIT.pdf",
+      "path": "dataset\\surat_sakit\\be7f6fb04c7246579ba5bdc457b926ff_SURAT KETERANGAN SAKIT.pdf",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAH KOTA LHOKSEUMAWE\n\nDINAS KESEHATAN\nUPTD PUSKESMAS MUARA DUA\n\nJL Banda Aceh - Medan, Cunda, Kec, Muara Dua, Lhokseumawe\nKode Pos 24351 E-mall :puskesmasmuaradua22@gmall.com\n\nSURAT URANGAN SAKIT\nNomor : 445 / 2131 / PKMR-MD / X / 2024\n\nYang bertanda tangan dibawah ini Dokter UPTD Puskesmas Muara Dua Kota Lhokseumawe\ndengan ini menerangkan bahwa :\n\nNama : ADRIO FARESI\nJenis Kelamin : Laki-laki\nUmur : 20 Tahun\nPekerjaan : Mahasiswa\nAlamat : Desa Paya Punteut Kecamatan Muara Dua\n\nKota Lhokseumawe\n\nBenar yang namanya tersebut diatas dalam keadaan sakit, dan perlu istirahat selama 2 (Dua)\nhari, tanggal 14 Oktober 2024 s/d 15 Oktober 2024.\n\nDemikian Surat Keterangan ini dibuat dengan sebenarnya untuk dapat dipergunakan\nsebagaimana mestinya.\n\n",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": "ADRIO FARESI",
+        "nim": null,
+        "tanggal": "14 Oktober 2024",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": "UPTD Puskesmas Muara Dua Kota Lhokseumawe",
+        "klinik": "PUSKESMAS MUARA DUA"
+      },
+      "created_at": "2025-10-28T21:52:54.286535"
+    },
+    {
+      "id": "9a7a2c86-f499-4a07-ae9b-d35e5f6858fe",
+      "filename": "7b966e116bbe4aeb9ae9e9dac23e4fc7_SURAT KETERANGAN SAKIT.pdf",
+      "path": "dataset\\surat_sakit\\7b966e116bbe4aeb9ae9e9dac23e4fc7_SURAT KETERANGAN SAKIT.pdf",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAH KOTA LHOKSEUMAWE\n\nDINAS KESEHATAN\nUPTD PUSKESMAS MUARA DUA\n\nJL Banda Aceh - Medan, Cunda, Kec, Muara Dua, Lhokseumawe\nKode Pos 24351 E-mall :puskesmasmuaradua22@gmall.com\n\nSURAT URANGAN SAKIT\nNomor : 445 / 2131 / PKMR-MD / X / 2024\n\nYang bertanda tangan dibawah ini Dokter UPTD Puskesmas Muara Dua Kota Lhokseumawe\ndengan ini menerangkan bahwa :\n\nNama : ADRIO FARESI\nJenis Kelamin : Laki-laki\nUmur : 20 Tahun\nPekerjaan : Mahasiswa\nAlamat : Desa Paya Punteut Kecamatan Muara Dua\n\nKota Lhokseumawe\n\nBenar yang namanya tersebut diatas dalam keadaan sakit, dan perlu istirahat selama 2 (Dua)\nhari, tanggal 14 Oktober 2024 s/d 15 Oktober 2024.\n\nDemikian Surat Keterangan ini dibuat dengan sebenarnya untuk dapat dipergunakan\nsebagaimana mestinya.\n\n",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": "ADRIO FARESI",
+        "nim": null,
+        "tanggal": "14 Oktober 2024",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": "UPTD Puskesmas Muara Dua Kota Lhokseumawe",
+        "klinik": "PUSKESMAS MUARA DUA"
+      },
+      "created_at": "2025-10-28T21:56:54.263952"
+    },
+    {
+      "id": "0eeec7bb-3b1f-4ad2-8854-ca3292025d99",
+      "filename": "44f59087ba9146cbbb16e260a516f1d2_Surat Sakit (1).jpeg",
+      "path": "dataset\\surat_sakit\\44f59087ba9146cbbb16e260a516f1d2_Surat Sakit (1).jpeg",
+      "jenis": "surat_sakit",
+      "text": "YAYASAN FIRDAUSI ASYIFA FARIT\nKLINIK TAWAKKAL\n\nJin Medan-B: Aceh Nomor 4 Bireuen Meunasah Reuleut\nKec. Kota Juang Kab. Bireuen\n\n—\n\nSURAT KETERANGAN\nNomor : 29 /K-TW/2025\n\nYang bertanda tangan dibawah ini\n\nK.M\n\nMenerangkan bahwa\nNama\n\n2! Tahun\n\nPekerjaan :_M@HASIGWIA\n\nAlamat (Hok AWE\n\nUmur\n\nUo Fama 2AHAN\n\nUu ( ENPAT\nMo - 25\n\nPerlu beristirahat selama\n\n07 Ao -\ndari tanggal Zo 2 s/d tanggal\n\nkarena sakit\n\nKepada yang berkepentingan harap maklum\n\n06\nBireuen, /o- 2\n\nDokter Yarjg Memeriksa,\n\ndr. Riza Fahmi, M A\n\n) hari\n\n",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": null,
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": null,
+        "klinik": "KLINIK TAWAKKAL"
+      },
+      "created_at": "2025-10-28T21:57:06.923661"
+    },
+    {
+      "id": "1eaa1a92-a2d7-4081-8695-53377b805e28",
+      "filename": "b13bcf2537534d27898f4a2124668e6a_SURAT KETERANGAN SAKIT.pdf",
+      "path": "dataset\\surat_sakit\\b13bcf2537534d27898f4a2124668e6a_SURAT KETERANGAN SAKIT.pdf",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAH KOTA LHOKSEUMAWE\nDINAS KESEHATAN\nUPTD PUSKESMAS MUARA DUA\nJL Banda Acohı\nModan , Cunda, Koc, Muaıa Dua, lhokseumawe\nKode Fos 24351 E-mall :puskesmasmuaradva?zaomall çom\nSUKAT KETERANGAN SAKII\nNomor\n445 / 2131 / PKMR-MI) / X / 2024\nhenanda langan dihawah ini Dokter UPTD Puskesmas Muara Dua Kola\nhokseunawe\ndengan ini mencTangkan hahwa\nNama\nADRIO) FARESI\nJenis Kelamin\nLaki-laki\nUmur\n20 Tahun\nPekerjaan\nMahasiswa\nAlamat\nDesa Paya Punteut Kecamatan Muara Dua\nKota Lhokseumawe\nBenar yang namanya tersebut diatas dalam keadaan sakit, dan perlu istirahat selama 2 (Dua)\nhari. tanggal 14 Oktober 2024 sld 15 Oktober 2024.\nDemikian Surat Keterangan ini dibuat dengan sebenarnya untuk dapat dipergunakan\nsebagaimana mestinya.\nLiokscumewe, 14 Oktober 2024\n'taknek Pemeriksa\nVOC\n(drwka\nawurni)\nNL 19930639 202421 2 015\nYang\nKoir\nFn",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": "14 Oktober 2024",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": "UPTD Puskesmas Muara Dua Kola",
+        "klinik": "PUSKESMAS MUARA DUA"
+      },
+      "created_at": "2025-10-28T22:32:33.019843"
+    },
+    {
+      "id": "d55e8fd4-4b3b-4454-880e-0466a216c5e1",
+      "filename": "5c034bbe5ad442fc91404f2b9706e433_surat sakit.jpeg",
+      "path": "dataset\\surat_sakit\\5c034bbe5ad442fc91404f2b9706e433_surat sakit.jpeg",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAH KABUPATEN ACEH UTARA\nDINAS\nKESEHATAN\nPUSKESMAS DEWANTARA -KRUENG GEUKUEH\nJI. Medan\nBanda Aceh, Desa Ulee Pulo, KM.\nKrueng Geukueh\nAceh Ulara\nSURAT KETERANGAN SAKIT\nNomor\n445/ 21>\n/20 Z5\nbertanda tangan dibawah ini Dokter Puskesmas Dewantara; berdasarkan hasil\npemcriksaan menerangkan bahwa\nNama\n4\nNpUvAL\nIstl\nUmur\n20\nPekerjaan\nMahasiswa\nAlamat\nTB\nBaroh\nOleh karena Sakit, Cuti Hamil, memerlukan istirahat selama\nDuaa\n2 hari\nterhitung mulai tanggal\n8\nJp4\ns/d\nW Spł\n101>\nDemikian surat ini kami   keluarkan; untuk   dapat   diperlukan  sebagai   mestinya.\nC~9\n@69\nDewantara\n8\n4\n10>\nDokten Puskesmas Dewantara\ndr ADeasy Deria\n190\n128 201409 2 001\nvusy\nYang\nAouparey\nNip.",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": "90\n128 2014",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "2 hari",
+        "dokter": null,
+        "klinik": "Puskesmas Dewantara"
+      },
+      "created_at": "2025-10-28T22:35:35.351631"
+    },
+    {
+      "id": "790fe409-6f7f-4480-ac9d-a1eba34883ab",
+      "filename": "05f4b1e114d54626a50b1a223113165c_surat sakit.jpeg",
+      "path": "dataset\\surat_sakit\\05f4b1e114d54626a50b1a223113165c_surat sakit.jpeg",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAH KABUPATEN ACEH UTARA\nDINAS\nKESEHATAN\nPUSKESMAS DEWANTARA -KRUENG GEUKUEH\nJI. Medan\nBanda Aceh, Desa Ulee Pulo, KM.\nKrueng Geukueh\nAceh Ulara\nSURAT KETERANGAN SAKIT\nNomor\n445/ 21>\n/20 Z5\nbertanda tangan dibawah ini Dokter Puskesmas Dewantara; berdasarkan hasil\npemcriksaan menerangkan bahwa\nNama\n4\nNpUvAL\nIstl\nUmur\n20\nPekerjaan\nMahasiswa\nAlamat\nTB\nBaroh\nOleh karena Sakit, Cuti Hamil, memerlukan istirahat selama\nDuaa\n2 hari\nterhitung mulai tanggal\n8\nJp4\ns/d\nW Spł\n101>\nDemikian surat ini kami   keluarkan; untuk   dapat   diperlukan  sebagai   mestinya.\nC~9\n@69\nDewantara\n8\n4\n10>\nDokten Puskesmas Dewantara\ndr ADeasy Deria\n190\n128 201409 2 001\nvusy\nYang\nAouparey\nNip.",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": "90\n128 2014",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "2 hari",
+        "dokter": null,
+        "klinik": "Puskesmas Dewantara"
+      },
+      "created_at": "2025-10-28T22:37:17.744447"
+    },
+    {
+      "id": "4027a820-5be0-441f-836c-701a68ec52c2",
+      "filename": "18b30a64fd444dc3abcc5b7ede867bf7_Surat_Sakit.JPG",
+      "path": "dataset\\surat_sakit\\18b30a64fd444dc3abcc5b7ede867bf7_Surat_Sakit.JPG",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAK KOTA LHOKSEUMAWE\nDINAS KESEHA F AN\nPUSKESMAS KANDANG\nJALAN KULAM TUHA GAMFONG MEUNASAH MEE KECAMATAN MUARA DUA KOTA LHOKSEIMAWE\nEmail: puskesmaskamangS@gmail_com\nSURATKETERANGAN SAKIT\nbertandatangan di bawah ini menerangkan bahwa:\nNama\nBíntANG |amAuhsN\nTempat\nTgl\nLahir\nUHoic sEu49wE\no5\n10 / 20o5\nPekerjaan\nM4+ F575WA\nAlamat\nCOT 6(nE1\nKaNnts\nBerdasarkan\nHasil\nPemeriksaan\nyang\ntelah\ndilakukan,\nmemerlukan\nistirahat\nselama\nSftu\nhari; dari tanggal\n30\ncol2y\ns.d\n29Lıe\n2224\nDiagnosa\nfrewis\nDemikianlah\nSurat Keterangan Kesehatan\nIni Diperbuat  Dengan Sebenarnya,\nDapat\nDipergunakan Seperlunya.\n30\n(0\n24\nan\nMemeriksa\n7\nYang\npasien\nL\nAgar\nVAG8oRRe\n(\n{\n9\nPusksl?\n05y",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": null,
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": null,
+        "klinik": "PUSKESMAS KANDANG"
+      },
+      "created_at": "2025-10-28T22:40:48.518841"
+    },
+    {
+      "id": "3b1f5a9f-8f0d-44aa-9595-7a1252d8fef2",
+      "filename": "c4d9c0bb9cff42d2a7f4e18e004af378_surat sakit.jpeg",
+      "path": "dataset\\surat_sakit\\c4d9c0bb9cff42d2a7f4e18e004af378_surat sakit.jpeg",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAH KABUPATEN ACEH UTARA\nDINAS\nKESEHATAN\nPUSKESMAS DEWANTARA -KRUENG GEUKUEH\nJI. Medan\nBanda Aceh, Desa Ulee Pulo, KM.\nKrueng Geukueh\nAceh Ulara\nSURAT KETERANGAN SAKIT\nNomor\n445/ 21>\n/20 Z5\nbertanda tangan dibawah ini Dokter Puskesmas Dewantara; berdasarkan hasil\npemcriksaan menerangkan bahwa\nNama\n4\nNpUvAL\nIstl\nUmur\n20\nPekerjaan\nMahasiswa\nAlamat\nTB\nBaroh\nOleh karena Sakit, Cuti Hamil, memerlukan istirahat selama\nDuaa\n2 hari\nterhitung mulai tanggal\n8\nJp4\ns/d\nW Spł\n101>\nDemikian surat ini kami   keluarkan; untuk   dapat   diperlukan  sebagai   mestinya.\nC~9\n@69\nDewantara\n8\n4\n10>\nDokten Puskesmas Dewantara\ndr ADeasy Deria\n190\n128 201409 2 001\nvusy\nYang\nAouparey\nNip.",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": "90\n128 2014",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "2 hari",
+        "dokter": null,
+        "klinik": "Puskesmas Dewantara"
+      },
+      "created_at": "2025-10-28T22:52:46.700705"
+    },
+    {
+      "id": "7d8177d9-6208-4d1a-b9e4-83b89ed769c0",
+      "filename": "4fff0579cc6a4e7694b1cda4a35316a7_surat sakit.jpeg",
+      "path": "dataset\\surat_sakit\\4fff0579cc6a4e7694b1cda4a35316a7_surat sakit.jpeg",
+      "jenis": "surat_sakit",
+      "text": "PEMERINTAH KABUPATEN ACEH UTARA\nDINAS\nKESEHATAN\nPUSKESMAS DEWANTARA -KRUENG GEUKUEH\nJI. Medan\nBanda Aceh, Desa Ulee Pulo, KM.\nKrueng Geukueh\nAceh Ulara\nSURAT KETERANGAN SAKIT\nNomor\n445/ 21>\n/20 Z5\nbertanda tangan dibawah ini Dokter Puskesmas Dewantara; berdasarkan hasil\npemcriksaan menerangkan bahwa\nNama\n4\nNpUvAL\nIstl\nUmur\n20\nPekerjaan\nMahasiswa\nAlamat\nTB\nBaroh\nOleh karena Sakit, Cuti Hamil, memerlukan istirahat selama\nDuaa\n2 hari\nterhitung mulai tanggal\n8\nJp4\ns/d\nW Spł\n101>\nDemikian surat ini kami   keluarkan; untuk   dapat   diperlukan  sebagai   mestinya.\nC~9\n@69\nDewantara\n8\n4\n10>\nDokten Puskesmas Dewantara\ndr ADeasy Deria\n190\n128 201409 2 001\nvusy\nYang\nAouparey\nNip.",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": "90\n128 2014",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "2 hari",
+        "dokter": null,
+        "klinik": "Puskesmas Dewantara"
+      },
+      "created_at": "2025-10-28T23:14:27.826890"
+    },
+    {
+      "id": "29faca53-affd-4650-bf51-0dfec32e9b88",
+      "filename": "820190d30c8f4eeebb2c5549e3d85a57_surat sakit.jpeg",
+      "path": "dataset\\surat_sakit\\820190d30c8f4eeebb2c5549e3d85a57_surat sakit.jpeg",
+      "jenis": "surat_sakit",
+      "text": "Pemerintah kabu\nPaten aceh utara dinas kesehatan puskesmas dewantara -krueng geukueh ji. medan banda aceh, desa ulee pulo, km. krueng geukueh aceh ulara\nSurat\nKeterangan\nSakit nomor 445/ 21> /20 z5 bertanda tangan dibawah ini dokter puskesmas dewantara; berdasarkan hasil pemcriksaan menerangkan bahwa\nNama 4 npuval istl umur 20 pekerjaan mahasiswa alamat tb baroh oleh\nKarena\nSakit, cuti hamil, memerlukan istirahat selama duaa 2 hari terhitung mulai\nTanggal 8 jp4 s/d w spł 101>\nDemikian\nSurat ini kami keluarkan; untuk da\nPat diperlukan sebagai mestinya. c~9 @69 dewantara 8 4 10> dokten puskesmas dewantara dr adeasy deria 190 128 201409 2 001 vusy yang aou\nParey\nNip.",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": "90 128 2014",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "2 hari",
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T23:19:39.941873"
+    },
+    {
+      "id": "6ac37c8f-0f75-4597-86c4-b6847eba2acb",
+      "filename": "93526bff962c47d1a6b0ab4e3ad361e0_surat sakit.jpeg",
+      "path": "dataset\\surat_sakit\\93526bff962c47d1a6b0ab4e3ad361e0_surat sakit.jpeg",
+      "jenis": "surat_sakit",
+      "text": "Pemerintah kabu\nPaten aceh utara dinas kesehatan puskesmas dewantara -krueng geukueh ji. medan banda aceh, desa ulee pulo, km. krueng geukueh aceh ulara\nSurat\nKeterangan\nSakit nomor 445/ 21> /20 z5 bertanda tangan dibawah ini dokter puskesmas dewantara; berdasarkan hasil pemcriksaan menerangkan bahwa\nNama 4 npuval istl umur 20 pekerjaan mahasiswa alamat tb baroh oleh\nKarena\nSakit, cuti hamil, memerlukan istirahat selama duaa 2 hari terhitung mulai\nTanggal 8 jp4 s/d w spł 101>\nDemikian\nSurat ini kami keluarkan; untuk da\nPat diperlukan sebagai mestinya. c~9 @69 dewantara 8 4 10> dokten puskesmas dewantara dr adeasy deria 190 128 201409 2 001 vusy yang aou\nParey\nNip.",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": "90 128 2014",
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": "2 hari",
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T23:19:42.890955"
+    },
+    {
+      "id": "5b3e64dd-e029-420c-be98-c744c36aeade",
+      "filename": "6e326acdfe7c4e92b24dc80e8ad52193_Surat_Sakit.JPG",
+      "path": "dataset\\surat_sakit\\6e326acdfe7c4e92b24dc80e8ad52193_Surat_Sakit.JPG",
+      "jenis": "surat_sakit",
+      "text": "Pemerintak kota\nLhokseumawe dinas keseha f an puskesmas kandang jalan kulam tuha gamfong meunasah mee kecamatan muara dua kota lhokseimawe email: puskesmaskamangs@gmail_com\nSurat\nKeterangan\nSakit bertandatangan di bawah ini menerangkan bahwa:\nNama bíntang |amauhsn tem\nPat tgl lahir uhoic seu49we o5 10 / 20o5 pekerjaan m4+ f575wa alamat cot 6(ne1 kannts berdasarkan hasil pemeriksaan yang telah dilakukan, memerlukan istirahat selama sftu hari; dari\nTanggal 30 col2y s.d 29lıe 2224 diagnosa frewis\nDemikianlah\nSurat\nKeterangan kesehatan ini diperbuat dengan sebenarnya, da\nPat dipergunakan seperlunya. 30 (0 24 an memeriksa 7 yang\nPasien l agar vag8orre ( { 9 pusksl? 05y",
+      "info": {
+        "jenis": "surat_sakit",
+        "nama": null,
+        "nim": null,
+        "tanggal": null,
+        "tanggal_mulai": null,
+        "tanggal_selesai": null,
+        "alasan": null,
+        "durasi": null,
+        "dokter": null,
+        "klinik": null
+      },
+      "created_at": "2025-10-28T23:20:16.895691"
+    }
+  ]
 }
